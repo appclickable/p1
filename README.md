@@ -8,4 +8,10 @@ I will demo this in sectoin next week.
 
 I had issues with my first setup of Hello World, so I hope this one works.
 
+
+http://www.w3schools.com/css/default.asp - inline CSS, wanted to use external but this is a single page
+
+http://www.w3schools.com/html/html_images.asp - adjusting image size
+http://www.w3.org/Style/Examples/007/center.en.html - centering images
+
 A list of any plugins, libraries, packages or outside code used in the project. See Student Responsibilities for more details on avoiding code plagiarism.
